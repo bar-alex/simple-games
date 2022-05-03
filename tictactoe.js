@@ -1,7 +1,9 @@
+// run with node
+
 // use the table from the activities to create a a tic-tac-toe game
 // find a way to get input from user
 // get input in format row:column
-// check win/loose opportunities - array for each situation? 
+// check win/lose opportunities - array for each situation? 
 
 let prefix = 'GameSys';
 let gameBoard = [       // using array.fill( array.fill() ) fills with the same array ref instead of creating new array ?!
